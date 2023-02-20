@@ -21,9 +21,9 @@ value on functional safety and the highest software quality.
 
 ## Cooperation with University of Ljubljana
 
-### Mi©Ko
+### Mi≈†Ko
 
 In cooperation with _Laboratory of Photovoltaics and Optoelectronics_
-from Faculty of Electrical engineering, ST, W¸rth Elektronik, INTECTIV,
+from Faculty of Electrical engineering, ST, W√ºrth Elektronik, INTECTIV,
 and IC elektronika we designed a next generation of
-[Mi©Ko (Mikrokrmilniπki ©tudentski Komplet)](https://github.com/mjankovec/MiSKo3).
+[Mi≈†Ko (Mikrokrmilni≈°ki ≈†tudentski Komplet)](https://github.com/mjankovec/MiSKo3).
