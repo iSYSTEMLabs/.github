@@ -23,7 +23,7 @@ value on functional safety and the highest software quality.
 
 ### MiŠKo
 
-In cooperation with _Laboratory of Photovoltaics and Optoelectronics_
+In cooperation with [Laboratory of Photovoltaics and Optoelectronics](http://lpvo.fe.uni-lj.si/en/)
 from Faculty of Electrical engineering, ST, Würth Elektronik, INTECTIV,
 and IC elektronika we designed a next generation of
 [MiŠKo (Mikrokrmilniški Študentski Komplet)](https://github.com/mjankovec/MiSKo3).
