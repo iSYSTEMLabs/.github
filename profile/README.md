@@ -1,23 +1,21 @@
-# About iSYSTEM
+# About TASKING
 
-We are a manufacturer of software development and test tools for
-embedded software and assist our customers in solving daily challenges
-in these areas. The product spectrum ranges from simple debuggers to
-extensive software analysis tools.
+TASKING is a leading provider of embedded software development tools,
+primarily serving safety-critical applications.
 
-Our products enable quick and easy access to the heart of an
-electronic control system, the so-called microcontroller or processor,
-and the evaluation of the embedded software running on it. Software
-developers can use iSYSTEM tools to prove that software behaves
-according to the original specification. Software errors can be
-detected and corrected, the runtime behavior is measured and analyzed,
-the provision of evidence for compliance with security standards is
-performable, the flexible integration into automated development and
-test processes, such as Continuous Integration, can be implemented.
+Founded in 1977, the Company has a rich history of developing performance-driven
+compilers and integrated development environments (IDEs) that enable manufacturers 
+and Tier-1suppliers to create safety-critical applications that are innovative, 
+reliable, and high performance.
 
-Our customers worldwide and from different industries place great
-value on functional safety and the highest software quality.
-
+Today, TASKING continues to expand its portfolio and capabilities through acquisitions 
+that broaden its offerings to include advanced debugger, software trace, and analysis 
+tools. This constant strategic growth makes TASKING a trusted partner for embedded 
+software development tools and services. TASKING has a strong position in 
+safety-critical markets with applications, such as automotive, industrial and 
+aerospace among others. Focusing on trust, customer orientation, expertise and 
+a strong commitment to sustainability, TASKING empowers embedded software engineers 
+to develop reliable, high-performance applications for a safer future.
 
 ## Cooperation with University of Ljubljana
 
